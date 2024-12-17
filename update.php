@@ -60,6 +60,8 @@
                     <input type="submit" value="Modifier tache" class="btn btn-primary btn-block btn-lg" name="modifier">
                 </div>
             </form>
+
+            <a href="liste_tache.php" class="btn btn-success">Retour</a>
     </div>
 </body>
 </html>
